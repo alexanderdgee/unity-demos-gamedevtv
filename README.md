@@ -1,2 +1,3 @@
 # unity-demos-gamedevtv
-Unity Demos from GameDevTV courses
+
+Unity Demos from [GameDev.tv](https://www.gamedev.tv/) courses.
