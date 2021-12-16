@@ -4,3 +4,4 @@
 - [Laser Defender](demos/LaserDefender/index.html) (a.k.a "ShootZ")
 - [Glitch Garden](demos/GlitchGarden/index.html) (a.k.a "GardenDefender")
 - [TileVania](demos/TileVania/index.html) (a.k.a "TileZ")
+- [Realm Rush](demos/RealmRush/index.html) (part 1)
